@@ -1,5 +1,11 @@
 // C implementation of quick union algorithm
 
+// Cost Model:
+// Initialize: N
+// Union:      tree height
+// Find:       tree height
+// Large trees can result in N performance (worst case)
+
 #include <stdio.h>
 #include <stdbool.h>
 
