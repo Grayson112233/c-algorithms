@@ -1,5 +1,11 @@
 // C implementation of weighted quick union algorithm
 
+// Cost Model:
+// Initialize: N
+// Union:      lg N
+// Find:       lg N
+// lg = Logarithm of base 2
+
 #include <stdio.h>
 #include <stdbool.h>
 
