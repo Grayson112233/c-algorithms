@@ -11,3 +11,4 @@ These programs are C implementations of the algorithms described in Coursera's [
 *  Quick Union (`quick_union/`)
 *  Weighted Quick Union (`weighted_quick_union/`)
 *  Weighted Quick Union with Path Compression (`pc_weighted_quick_union/`)
+*  Matrix Percolation using Weighted Quick Union (`2d_percolation/`)
