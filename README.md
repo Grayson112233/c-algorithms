@@ -1,11 +1,11 @@
-# Coursera: Algorithms, 4th ed.
+# Algorithms, 4th ed.
 ### C Implementations
 
 Grayson Pike, 2016
 
 These programs are C implementations of the algorithms described in Coursera's [Alogirthms, 4th ed.](https://www.coursera.org/course/algs4partI) online course.
 
-#### Algorithms, in order by video:
+#### Algorithms Implemented So Far:
 
 *  Quick Find (`quick_find/`)
 *  Quick Union (`quick_union/`)
