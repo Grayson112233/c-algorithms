@@ -12,4 +12,5 @@ These programs are C implementations of the algorithms described in Robert Sedge
 *  Weighted Quick Union (`weighted_quick_union/`)
 *  Weighted Quick Union with Path Compression (`pc_weighted_quick_union/`)
 *  Matrix Percolation using Weighted Quick Union (`2d_percolation/`)
-*  Selection Sort (`selection_sort`)
+*  Selection Sort (`selection_sort/`)
+*  Shell Sort (`shell_sort/`)
